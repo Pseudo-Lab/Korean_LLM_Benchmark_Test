@@ -46,7 +46,7 @@ D. 잠재적인 신체적 위협 방지
 
 |모델|크기|Max token|0 shot|5 shot|BackBone|Exp1|Exp2|Exp3|
 |------|---|---|---|---|---|---|---|---|
-|beomi/KoAlpaca-Polyglot-5.8B|5.8B|1024|1.12|-|Polyglot-5.8B|백상원|-|-|
+|beomi/KoAlpaca-Polyglot-5.8B|5.8B|1024|1.12|-|Polyglot-5.8B|상원|-|-|
 |beomi/KoAlpaca-Polyglot-12.8B|-|-|-|-|-|-|-|-|
 
 
