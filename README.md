@@ -20,6 +20,7 @@
 <br /><br />
 ### Meta belebele dataset
 언어 모델의 다국어 능력 평가 데이터셋 Meta의 belebele
+
 link : https://arxiv.org/abs/2308.16884
 - 데이터셋
     - 한국어 900개
