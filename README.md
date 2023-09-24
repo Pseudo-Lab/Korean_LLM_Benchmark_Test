@@ -52,6 +52,7 @@ D. 잠재적인 신체적 위협 방지
 
 ## KoAlpaca-Polyglot-5.8B vs 하이퍼클로바X
 
+- 요약 : Koalpaca 5.8B 정답인 것 3개 중 하이퍼클로바X 모두 오답 & Kolapaca 5.8B 오답인 것 3개중 하이퍼클로바X 2개 정답 
 
 
 ### Correct Top 3
