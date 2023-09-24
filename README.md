@@ -43,7 +43,7 @@ D. 잠재적인 신체적 위협 방지
 ```
 <br />
 
-### Result (Accuracy)
+### Result (Accuracy %)
 <br />
 
 |모델|크기|Max token|0 shot|5 shot|BackBone|Exp1|Exp2|Exp3|
